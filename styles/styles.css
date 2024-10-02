@@ -71,6 +71,7 @@ a {
     font-size: 1.125rem;
     color: var(--white);
     transition: 0.3s;
+    cursor: pointer;
 }
 
 .btn:hover,
