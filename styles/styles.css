@@ -67,7 +67,7 @@ a {
 .btn {
     border-radius: 5px;
     padding: 15px 32px;
-    background: #69b42e;
+    background: var(--green);
     font-size: 1.125rem;
     color: var(--white);
     transition: 0.3s;
